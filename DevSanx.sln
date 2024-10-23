@@ -1,16 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35410.144 d17.12
+VisualStudioVersion = 17.12.35410.144
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevSanx.AppHost", "DevSanx.AppHost\DevSanx.AppHost.csproj", "{B3897C75-F21F-4617-A3BF-8D96CA5441F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevSanx.AppHost", "Website\DevSanx.AppHost\DevSanx.AppHost.csproj", "{B3897C75-F21F-4617-A3BF-8D96CA5441F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevSanx.ServiceDefaults", "DevSanx.ServiceDefaults\DevSanx.ServiceDefaults.csproj", "{03CD633A-DA6C-4F9C-A2EB-32BC9C1DB291}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevSanx.ServiceDefaults", "Website\DevSanx.ServiceDefaults\DevSanx.ServiceDefaults.csproj", "{03CD633A-DA6C-4F9C-A2EB-32BC9C1DB291}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevSanx.ApiService", "DevSanx.ApiService\DevSanx.ApiService.csproj", "{52525677-2BD9-4F24-ABE4-8BF0B93A873E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevSanx.ApiService", "Website\DevSanx.ApiService\DevSanx.ApiService.csproj", "{52525677-2BD9-4F24-ABE4-8BF0B93A873E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevSanx.Web", "DevSanx.Web\DevSanx.Web.csproj", "{C4D8D393-8D0F-43F4-94C6-B4EAA543FAD3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevSanx.Web", "Website\DevSanx.Web\DevSanx.Web.csproj", "{C4D8D393-8D0F-43F4-94C6-B4EAA543FAD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevSanx.Tests", "DevSanx.Tests\DevSanx.Tests.csproj", "{14628E6E-DD7D-488C-9BFC-AF1BD2F3339E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevSanx.Tests", "Website\DevSanx.Tests\DevSanx.Tests.csproj", "{14628E6E-DD7D-488C-9BFC-AF1BD2F3339E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{D22FFBBB-EBF6-40F9-8F0E-806AE251D8CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,5 +43,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B3897C75-F21F-4617-A3BF-8D96CA5441F9} = {D22FFBBB-EBF6-40F9-8F0E-806AE251D8CA}
+		{03CD633A-DA6C-4F9C-A2EB-32BC9C1DB291} = {D22FFBBB-EBF6-40F9-8F0E-806AE251D8CA}
+		{52525677-2BD9-4F24-ABE4-8BF0B93A873E} = {D22FFBBB-EBF6-40F9-8F0E-806AE251D8CA}
+		{C4D8D393-8D0F-43F4-94C6-B4EAA543FAD3} = {D22FFBBB-EBF6-40F9-8F0E-806AE251D8CA}
+		{14628E6E-DD7D-488C-9BFC-AF1BD2F3339E} = {D22FFBBB-EBF6-40F9-8F0E-806AE251D8CA}
 	EndGlobalSection
 EndGlobal
