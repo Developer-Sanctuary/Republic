@@ -20,6 +20,8 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Republic.Private", "Private
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic", "Shared\Republic.csproj", "{B9344D83-7338-414E-9D73-EE570FE29D43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.Judiciary", "Republic.Judiciary\Republic.Judiciary.csproj", "{D7C11820-FEEA-4903-9980-5762CCE523B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{B9344D83-7338-414E-9D73-EE570FE29D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9344D83-7338-414E-9D73-EE570FE29D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9344D83-7338-414E-9D73-EE570FE29D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C11820-FEEA-4903-9980-5762CCE523B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C11820-FEEA-4903-9980-5762CCE523B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C11820-FEEA-4903-9980-5762CCE523B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C11820-FEEA-4903-9980-5762CCE523B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,5 +73,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Private\Republic.Private.projitems*{17d420ed-cb14-46b2-9ea5-56878e03008b}*SharedItemsImports = 13
+		Private\Republic.Private.projitems*{d7c11820-feea-4903-9980-5762cce523b8}*SharedItemsImports = 5
 	EndGlobalSection
 EndGlobal
