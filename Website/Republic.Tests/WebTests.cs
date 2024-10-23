@@ -1,4 +1,4 @@
-namespace DevSanx.Tests;
+namespace Republic.Tests;
 
 [TestClass]
 public class WebTests
@@ -7,7 +7,7 @@ public class WebTests
     public async Task GetWebResourceRootReturnsOkStatusCode()
     {
         // Arrange
-        var appHost = await DistributedApplicationTestingBuilder.CreateAsync<Projects.DevSanx_AppHost>();
+        var appHost = await DistributedApplicationTestingBuilder.CreateAsync<Projects.Republic_AppHost>();
         appHost.Services.ConfigureHttpClientDefaults(clientBuilder =>
         {
             clientBuilder.AddStandardResilienceHandler();

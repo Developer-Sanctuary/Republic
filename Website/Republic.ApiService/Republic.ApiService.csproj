@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DevSanx.ServiceDefaults\DevSanx.ServiceDefaults.csproj" />
+    <ProjectReference Include="..\Republic.ServiceDefaults\Republic.ServiceDefaults.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,4 +1,4 @@
-namespace DevSanx.Web;
+namespace Republic.Web;
 
 public class WeatherApiClient(HttpClient httpClient)
 {

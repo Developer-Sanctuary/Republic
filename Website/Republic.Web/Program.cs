@@ -1,5 +1,5 @@
-using DevSanx.Web;
-using DevSanx.Web.Components;
+using Republic.Web;
+using Republic.Web.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
