@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Republic.AppHost\Republic.AppHost.csproj" />
+    <ProjectReference Include="..\AppHost\Republic.AppHost.csproj" />
   </ItemGroup>
 
   <ItemGroup>
