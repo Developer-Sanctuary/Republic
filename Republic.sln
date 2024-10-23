@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35410.144 d17.12
+VisualStudioVersion = 17.12.35410.144
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.AppHost", "Website\Republic.AppHost\Republic.AppHost.csproj", "{E1EB333E-DADB-4DA1-9B55-2EECE1A8E5E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.AppHost", "Republic.AppHost\Republic.AppHost.csproj", "{E1EB333E-DADB-4DA1-9B55-2EECE1A8E5E0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.ServiceDefaults", "Website\Republic.ServiceDefaults\Republic.ServiceDefaults.csproj", "{410191C1-1FD2-436C-9CE9-4A52390C91F7}"
 EndProject
@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.ApiService", "Webs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.Web", "Website\Republic.Web\Republic.Web.csproj", "{06992F74-BB2F-4D31-A81B-33D2010CBF6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.Tests", "Website\Republic.Tests\Republic.Tests.csproj", "{FB3689E2-0859-4BF5-9126-975534A7140F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.Tests", "Republic.Tests\Republic.Tests.csproj", "{FB3689E2-0859-4BF5-9126-975534A7140F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{E876686F-E94B-4E52-8F1C-0BAA5D744383}"
 EndProject
@@ -45,10 +45,8 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{E1EB333E-DADB-4DA1-9B55-2EECE1A8E5E0} = {E876686F-E94B-4E52-8F1C-0BAA5D744383}
 		{410191C1-1FD2-436C-9CE9-4A52390C91F7} = {E876686F-E94B-4E52-8F1C-0BAA5D744383}
 		{86151E07-F048-447F-823E-350C63EF8433} = {E876686F-E94B-4E52-8F1C-0BAA5D744383}
 		{06992F74-BB2F-4D31-A81B-33D2010CBF6E} = {E876686F-E94B-4E52-8F1C-0BAA5D744383}
-		{FB3689E2-0859-4BF5-9126-975534A7140F} = {E876686F-E94B-4E52-8F1C-0BAA5D744383}
 	EndGlobalSection
 EndGlobal
