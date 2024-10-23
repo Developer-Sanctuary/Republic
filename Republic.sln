@@ -18,6 +18,8 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Republic.Copilot", "Copilot
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Republic.Private", "Private\Republic.Private.shproj", "{17D420ED-CB14-46B2-9EA5-56878E03008B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic", "Shared\Republic.csproj", "{B9344D83-7338-414E-9D73-EE570FE29D43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{F5783E8F-FFF1-461E-8ECE-A475E411807A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5783E8F-FFF1-461E-8ECE-A475E411807A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F5783E8F-FFF1-461E-8ECE-A475E411807A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B9344D83-7338-414E-9D73-EE570FE29D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9344D83-7338-414E-9D73-EE570FE29D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9344D83-7338-414E-9D73-EE570FE29D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9344D83-7338-414E-9D73-EE570FE29D43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
