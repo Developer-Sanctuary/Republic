@@ -13,4 +13,8 @@ builder.AddProject<Projects.Republic_Judiciary>("court")
 	.WithReference(cache)
 	.WithReference(apiService);
 
+builder.AddProject<Projects.Republic_Portals>("portals")
+	.WithReference(cache)
+	.WithReference(apiService);
+
 builder.Build().Run();
