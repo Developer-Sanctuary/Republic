@@ -6,7 +6,7 @@ namespace Republic.Judiciary;
 
 class Bot
 {
-	private DiscordSocketClient _client;
+	private DiscordSocketClient? _client;
 
 	public async Task RunAsync()
 	{
