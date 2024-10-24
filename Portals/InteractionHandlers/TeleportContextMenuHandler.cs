@@ -1,5 +1,4 @@
 ﻿using Discord;
-using Discord.Commands;
 using Discord.Interactions;
 using Discord.WebSocket;
 using Republic.Portals.DB;
@@ -38,7 +37,7 @@ public class TeleportContextMenuHandler(
 			await RespondAsync("You can't open portal in the same channel...!", ephemeral: true);
 			return;
 		}
-		
+
 		if (!helper.IsChannelExcluded(rxChannel, Context.Guild, dbContext))
 		{
 			await (rxChannel as ISocketMessageChannel)!.SendMessageAsync(

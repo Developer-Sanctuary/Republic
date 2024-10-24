@@ -19,14 +19,15 @@ public class BotService(DiscordSocketClient discordSocketClient,
 		CustomBotLogger customBotLogger = new();
 		await interactionHandler.InitializeAsync();
 		await commandHandler.InstallCommandsAsync();
-		
+
 		interactionService.Log += customBotLogger.BotLogger;
 		commandService.Log += customBotLogger.BotLogger;
 		discordSocketClient.Log += customBotLogger.BotLogger;
 
 		discordSocketClient.Ready += async () =>
 		{
-			_ = Task.Run(async () => {
+			_ = Task.Run(async () =>
+			{
 				// Setting up slash commands and context commands
 				ulong guildId = Convert.ToUInt64(configuration["Bot:GuildId"]);
 				var guild = discordSocketClient.GetGuild(guildId);
@@ -44,7 +45,7 @@ public class BotService(DiscordSocketClient discordSocketClient,
 		await discordSocketClient.StartAsync();
 
 		// Setting bot's activity
-		await discordSocketClient.SetGameAsync(configuration["RichPresence:CustomMessage"], 
+		await discordSocketClient.SetGameAsync(configuration["RichPresence:CustomMessage"],
 			null, ActivityType.CustomStatus);
 	}
 

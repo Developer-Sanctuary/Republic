@@ -1,5 +1,5 @@
-﻿using Discord.WebSocket;
-using Discord;
+﻿using Discord;
+using Discord.WebSocket;
 using Republic.Private;
 
 namespace Republic.Judiciary;

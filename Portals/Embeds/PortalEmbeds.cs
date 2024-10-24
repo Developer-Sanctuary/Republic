@@ -30,7 +30,7 @@ public class RxPortalEmbed(ISocketMessageChannel channel, SocketGuild guild, IMe
 		{
 			string truncatedMessage = annotatedMessage.Content.Length > 20
 				? $"{annotatedMessage.Content[..20]}..." : annotatedMessage.Content;
-			embed.AddField("Annotated Message", 
+			embed.AddField("Annotated Message",
 				$"{truncatedMessage} [Go to Message](https://discord.com/channels/{guild.Id}/{channel.Id}/{annotatedMessage.Id})");
 		}
 		return embed.Build();

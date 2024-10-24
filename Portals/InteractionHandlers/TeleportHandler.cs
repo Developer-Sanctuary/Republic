@@ -13,7 +13,7 @@ public class TeleportHandler(BotDbContext dbContext, Helper helper) : Interactio
 	// /teleport - this command does the main teleportation things and opening
 	// and closing of portals
 	[SlashCommand("teleport", "Opens a portal from current channel to provided rxChannel")]
-	public async Task HandleTeleport([Name("channel")]SocketGuildChannel rxChannel)
+	public async Task HandleTeleport([Name("channel")] SocketGuildChannel rxChannel)
 	{
 		if (rxChannel.Id == Context.Channel.Id)
 		{
@@ -29,7 +29,7 @@ public class TeleportHandler(BotDbContext dbContext, Helper helper) : Interactio
 
 		if (!helper.IsChannelExcluded(rxChannel, Context.Guild, dbContext))
 		{
-			await(rxChannel as ISocketMessageChannel)!.SendMessageAsync(
+			await (rxChannel as ISocketMessageChannel)!.SendMessageAsync(
 				embed: new RxPortalEmbed(Context.Channel, Context.Guild).Build());
 		}
 
