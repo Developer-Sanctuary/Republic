@@ -20,7 +20,7 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Republic.Private", "Private
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic", "Shared\Republic.csproj", "{B9344D83-7338-414E-9D73-EE570FE29D43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.Judiciary", "Republic.Judiciary\Republic.Judiciary.csproj", "{D7C11820-FEEA-4903-9980-5762CCE523B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.Judiciary", "Judiciary\Republic.Judiciary.csproj", "{D7C11820-FEEA-4903-9980-5762CCE523B8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.Portals", "Portals\Republic.Portals.csproj", "{5CB9D92F-FF75-4AA0-BB66-9544C6B63CDA}"
 EndProject
