@@ -10,6 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Republic.Judiciary\Republic.Judiciary.csproj" />
     <ProjectReference Include="..\Website\ApiService\Republic.ApiService.csproj" />
     <ProjectReference Include="..\Website\Web\Republic.Web.csproj" />
   </ItemGroup>

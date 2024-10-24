@@ -9,4 +9,8 @@ builder.AddProject<Projects.Republic_Web>("webfrontend")
 	.WithReference(cache)
 	.WithReference(apiService);
 
+builder.AddProject<Projects.Republic_Judiciary>("court")
+	.WithReference(cache)
+	.WithReference(apiService);
+
 builder.Build().Run();
