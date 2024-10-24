@@ -2,7 +2,8 @@
 using Republic.Portals.Common;
 
 // ReSharper disable All
-namespace Portal.Embeds;
+namespace Republic.Portals.Embeds;
+
 public class HelpEmbed : IEmbedProvider
 {
 	public Embed Build()

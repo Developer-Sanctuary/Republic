@@ -1,6 +1,5 @@
 ﻿using Discord;
 using Discord.Interactions;
-using Portal.Embeds;
 using Republic.Portals.Embeds;
 
 namespace Republic.Portals.InteractionHandlers;
