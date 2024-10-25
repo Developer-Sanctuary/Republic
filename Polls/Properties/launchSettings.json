@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Republic.Polls": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
