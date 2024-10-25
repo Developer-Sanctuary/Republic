@@ -57,7 +57,7 @@ public class BotService(DiscordSocketClient discordSocketClient,
 		await discordSocketClient.StopAsync();
 	}
 
-	private MessageCommandBuilder AddContextCommand()
+	private static MessageCommandBuilder AddContextCommand()
 	{
 		// Create a context command named "Open Portal"
 		var guildMessageCommand = new MessageCommandBuilder()
