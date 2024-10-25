@@ -4,6 +4,7 @@ using Discord.Interactions;
 using Discord.WebSocket;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
+using Republic.Private;
 
 namespace Republic.Portals;
 
@@ -41,7 +42,7 @@ public class BotService(DiscordSocketClient discordSocketClient,
 		};
 
 		// Starting discord socket client
-		await discordSocketClient.LoginAsync(TokenType.Bot, configuration["DISCORD_BOT_TOKEN"]);
+		await discordSocketClient.LoginAsync(TokenType.Bot, Constants.Portals.Token);
 		await discordSocketClient.StartAsync();
 
 		// Setting bot's activity

@@ -30,4 +30,6 @@
       </None>
     </ItemGroup>
 
+    <Import Project="..\Private\Republic.Private.projitems" Label="Shared" />
+
 </Project>

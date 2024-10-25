@@ -14,7 +14,7 @@ class Bot
 		_client.Log += LogAsync;
 		_client.MessageReceived += MessageReceivedAsync;
 
-		var _token = Constants.Token;
+		var _token = Constants.Judiciary.Token;
 
 		await _client.LoginAsync(TokenType.Bot, _token);
 		await _client.StartAsync();
