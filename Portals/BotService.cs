@@ -30,7 +30,7 @@ public class BotService(DiscordSocketClient discordSocketClient,
 			_ = Task.Run(async () =>
 			{
 				// Setting up slash commands and context commands
-				ulong guildId = Convert.ToUInt64(configuration["Bot:GuildId"]);
+				ulong guildId = Private.Portals.Bot.GuildId;
 				var guild = discordSocketClient.GetGuild(guildId);
 				await guild.BulkOverwriteApplicationCommandAsync(new ApplicationCommandProperties[]
 				{
@@ -42,7 +42,7 @@ public class BotService(DiscordSocketClient discordSocketClient,
 		};
 
 		// Starting discord socket client
-		await discordSocketClient.LoginAsync(TokenType.Bot, Constants.Portals.Token);
+		await discordSocketClient.LoginAsync(TokenType.Bot, Private.Portals.Token);
 		await discordSocketClient.StartAsync();
 
 		// Setting bot's activity
