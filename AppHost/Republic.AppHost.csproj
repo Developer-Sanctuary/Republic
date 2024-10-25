@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Judiciary\Republic.Judiciary.csproj" />
+    <ProjectReference Include="..\Polls\Republic.Polls.csproj" />
     <ProjectReference Include="..\Portals\Republic.Portals.csproj" />
     <ProjectReference Include="..\Website\ApiService\Republic.ApiService.csproj" />
     <ProjectReference Include="..\Website\Web\Republic.Web.csproj" />

@@ -13,4 +13,6 @@ builder.AddProject<Projects.Republic_Judiciary>("court");
 
 builder.AddProject<Projects.Republic_Portals>("portals");
 
+builder.AddProject<Projects.Republic_Polls>("polls");
+
 builder.Build().Run();
