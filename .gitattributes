@@ -1,1 +1,1 @@
-Dockerfile linguist-detectable=false
+**/Dockerfile linguist-detectable=false
