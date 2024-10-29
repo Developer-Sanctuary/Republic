@@ -5,15 +5,15 @@
       "name": "localhost (Edge)",
       "type": "edge",
       "request": "launch",
-      "url": "http://localhost:1337",
-      "webRoot": "${workspaceFolder}/public"
+      "url": "http://localhost:5173",
+      "webRoot": "${workspaceFolder}/build"
     },
     {
       "name": "localhost (Chrome)",
       "type": "chrome",
       "request": "launch",
-      "url": "http://localhost:1337",
-      "webRoot": "${workspaceFolder}/public"
+      "url": "http://localhost:5173",
+      "webRoot": "${workspaceFolder}/build"
     },
     {
       "name": "Debug node process",
