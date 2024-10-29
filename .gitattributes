@@ -1,1 +1,2 @@
 **/Dockerfile linguist-detectable=false
+*.svelte linguist-language=HTML
