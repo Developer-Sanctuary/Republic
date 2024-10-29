@@ -39,7 +39,7 @@
       "name": "Launch Node and Browser",
       "configurations": [
         "Debug node process",
-        "localhost (Chrome)"
+        "localhost (Edge)"
       ]
     }
   ]
