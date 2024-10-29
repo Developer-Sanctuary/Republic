@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.Portals", "Portals
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.Polls", "Polls\Republic.Polls.csproj", "{0A6C6FBE-640A-41F9-917B-FADCA403AB69}"
 EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Republic.Web", "Website\Republic.Web\Republic.Web.esproj", "{61A7FDBF-6623-46A0-BA0E-2DD958E57DA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,12 @@ Global
 		{0A6C6FBE-640A-41F9-917B-FADCA403AB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A6C6FBE-640A-41F9-917B-FADCA403AB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A6C6FBE-640A-41F9-917B-FADCA403AB69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A7FDBF-6623-46A0-BA0E-2DD958E57DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A7FDBF-6623-46A0-BA0E-2DD958E57DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A7FDBF-6623-46A0-BA0E-2DD958E57DA5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{61A7FDBF-6623-46A0-BA0E-2DD958E57DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A7FDBF-6623-46A0-BA0E-2DD958E57DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A7FDBF-6623-46A0-BA0E-2DD958E57DA5}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -75,6 +83,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{410191C1-1FD2-436C-9CE9-4A52390C91F7} = {E876686F-E94B-4E52-8F1C-0BAA5D744383}
 		{86151E07-F048-447F-823E-350C63EF8433} = {E876686F-E94B-4E52-8F1C-0BAA5D744383}
+		{61A7FDBF-6623-46A0-BA0E-2DD958E57DA5} = {E876686F-E94B-4E52-8F1C-0BAA5D744383}
 	EndGlobalSection
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Private\Republic.Private.projitems*{17d420ed-cb14-46b2-9ea5-56878e03008b}*SharedItemsImports = 13
