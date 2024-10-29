@@ -1,6 +1,6 @@
 ﻿using Discord;
 
-namespace Republic.Portals.Common;
+namespace Republic.Common;
 
 public interface IEmbedProvider
 {
