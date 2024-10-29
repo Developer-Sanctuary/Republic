@@ -14,31 +14,12 @@
       "request": "launch",
       "url": "http://localhost:5173",
       "webRoot": "${workspaceFolder}/build"
-    },
-    {
-      "name": "Debug node process",
-      "type": "node",
-      "request": "launch",
-      "cwd": "${workspaceFolder}",
-      "program": "${workspaceFolder}/server.ts",
-      "skipFiles": [
-        "<node_internals/**"
-      ],
-      "stopOnEntry": true,
-      "console": "externalTerminal",
-      "env": {
-        "port": "1337"
-      },
-      "args": [
-        ""
-      ]
     }
   ],
   "compounds": [
     {
-      "name": "Launch Node and Browser",
+      "name": "Launch Browser",
       "configurations": [
-        "Debug node process",
         "localhost (Edge)"
       ]
     }

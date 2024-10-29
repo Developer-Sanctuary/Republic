@@ -4,7 +4,8 @@ var cache = builder.AddRedis("cache");
 
 var apiService = builder.AddProject<Projects.Republic_ApiService>("apiservice");
 
-builder.AddProject<Projects.Republic_Web>("web");
+builder.AddViteApp("web", "../Website/Republic.Web")
+	.WaitFor(apiService);
 
 builder.AddProject<Projects.Republic_Judiciary>("court");
 
