@@ -1,5 +1,5 @@
 ﻿using Discord;
-using Republic.Portals.Common;
+using Republic.Common;
 
 // ReSharper disable All
 namespace Republic.Portals.Embeds;

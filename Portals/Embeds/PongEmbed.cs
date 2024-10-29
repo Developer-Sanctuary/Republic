@@ -1,5 +1,5 @@
 ﻿using Discord;
-using Republic.Portals.Common;
+using Republic.Common;
 
 namespace Republic.Portals.Embeds;
 
