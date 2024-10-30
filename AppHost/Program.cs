@@ -8,7 +8,7 @@ builder.AddViteApp("web", "../Website/Republic.Web")
 	.WithExternalHttpEndpoints()
 	.WaitFor(apiService);
 
-// builder.AddNpmApp("copilot", "../Copilot", "preview");
+builder.AddNpmApp("copilot", "../Copilot");
 
 builder.AddProject<Projects.Republic_Judiciary>("court");
 
