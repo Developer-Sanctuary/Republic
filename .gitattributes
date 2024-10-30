@@ -2,4 +2,8 @@
 *.hbs linguist-detectable=false
 
 *.html linguist-language=Svelte
-*.js linguist-detectable=false
+
+*.js linguist-language=TypeScript
+*.ts linguist-language=TypeScript
+**/*.config.js linguist-language=TypeScript
+*.cjs linguist-language=TypeScript
