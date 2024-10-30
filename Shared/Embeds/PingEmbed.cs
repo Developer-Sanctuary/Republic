@@ -1,9 +1,9 @@
 ﻿using Discord;
 using Republic.Common;
 
-namespace Republic.Portals.Embeds;
+namespace Republic.Embeds;
 
-public class PongEmbed(int ping) : IEmbedProvider
+public class PingEmbed(int ping) : IEmbedProvider
 {
 	public Embed Build() => new EmbedBuilder()
 		.WithTitle("Pong!")
