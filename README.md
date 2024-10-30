@@ -28,3 +28,30 @@ This repo also contains various bots written in Python and C# (and perhaps also 
 > - [ ] statbot replacement
 
 _as proposed by FireCube in a conversation with Lamparter_
+
+## 🔐 Credentials
+
+In order to run the bots, you will need to provide the appropriate credentials. These credentials appear inside a unified store in the `Republic.Private` project.
+
+1. Create a file named `Constants.cs` in `Republic.Private`
+2. In the file, paste the following contents:
+```cs
+namespace Republic.Private;
+
+public class Judiciary
+{
+		public const string Token = "token_for_court_automation_bot";
+}
+
+public class Portals
+{
+	public const string Token = "token_for_portals_bot";
+
+	public class Bot
+	{
+		public const ulong GuildId = 714581497222398064; // Copy and paste the server ID of your target server here.
+	}
+}
+```
+3. The credentials store should now be working!
+> If there are any problems here, feel free to create an issue or send a message in the `#dev-infrastructure` channel in Developer Sanctuary!
