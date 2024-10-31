@@ -4,10 +4,6 @@ var cache = builder.AddRedis("cache");
 
 var apiService = builder.AddProject<Projects.Republic_ApiService>("apiservice");
 
-builder.AddViteApp("archives", "../Website/Archives")
-	.WithExternalHttpEndpoints()
-	.WaitFor(apiService);
-
 builder.AddNpmApp("copilot", "../Copilot");
 
 builder.AddProject<Projects.Republic_Web>("webfrontend")
