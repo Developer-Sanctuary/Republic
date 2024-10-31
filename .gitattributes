@@ -1,8 +1,9 @@
 **/Dockerfile linguist-detectable=false
 *.hbs linguist-detectable=false
 
-*.html linguist-language=Svelte
+*.svelte linguist-language=HTML
 
+# The JavaScript problem
 *.js linguist-language=TypeScript
 *.ts linguist-language=TypeScript
 **/*.config.js linguist-language=TypeScript
