@@ -1,7 +1,7 @@
 {
-	"name": "republic.web",
+	"name": "republic.archive",
 	"version": "0.0.0",
-	"description": "Republic.Web",
+	"description": "The Historical Archives for Our Great Nation",
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",

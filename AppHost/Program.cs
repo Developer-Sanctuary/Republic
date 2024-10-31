@@ -4,7 +4,7 @@ var cache = builder.AddRedis("cache");
 
 var apiService = builder.AddProject<Projects.Republic_ApiService>("apiservice");
 
-builder.AddViteApp("webfrontend", "../Website/Republic.Web")
+builder.AddViteApp("webfrontend", "../Website/Archives")
 	.WithExternalHttpEndpoints()
 	.WaitFor(apiService);
 

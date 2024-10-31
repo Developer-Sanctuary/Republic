@@ -24,7 +24,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.Portals", "Portals
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.Polls", "Polls\Republic.Polls.csproj", "{0A6C6FBE-640A-41F9-917B-FADCA403AB69}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Republic.Web", "Website\Republic.Web\Republic.Web.esproj", "{61A7FDBF-6623-46A0-BA0E-2DD958E57DA5}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Republic.Archive", "Website\Archives\Republic.Archive.esproj", "{61A7FDBF-6623-46A0-BA0E-2DD958E57DA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

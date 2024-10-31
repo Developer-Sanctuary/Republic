@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -14,7 +14,6 @@
     <ProjectReference Include="..\Polls\Republic.Polls.csproj" />
     <ProjectReference Include="..\Portals\Republic.Portals.csproj" />
     <ProjectReference Include="..\Website\ApiService\Republic.ApiService.csproj" />
-    <ProjectReference Include="..\Website\Republic.Web\Republic.Web.esproj" />
   </ItemGroup>
 
   <ItemGroup>
