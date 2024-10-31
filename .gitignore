@@ -13,7 +13,7 @@ Private/Constants.cs
 **/PROJECT_MIGRATION_LOG.txt
 
 # Fabric
-**/.pf/
+**/.pf/build/
 
 # User-specific files
 *.rsuser
