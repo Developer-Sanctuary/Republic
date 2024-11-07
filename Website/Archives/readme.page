@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pf:Page xmlns:pf="http://schemas.getpagefabric.com/2020/pageDefinition" id="947e0a04-405a-4a9b-9d70-23a4f5fabea3">
+<pf:Variants>
+<pf:Variant lang='en-US'>
+<pf:PageLayoutProperties><![CDATA[pageMedium]]></pf:PageLayoutProperties>
+<pf:PageModifiedDate><![CDATA[2024-10-31T14:30:07]]></pf:PageModifiedDate>
+<pf:PageTitle><![CDATA[Welcome to PageFabric]]></pf:PageTitle>
+<pf:PageLayout><![CDATA[default]]></pf:PageLayout>
+<pf:PageTemplate><![CDATA[]]></pf:PageTemplate>
+<pf:PageOGImage><![CDATA[]]></pf:PageOGImage>
+<pf:PageOGTitle><![CDATA[]]></pf:PageOGTitle>
+<pf:PageOGDescription><![CDATA[]]></pf:PageOGDescription>
+<pf:PageMetaDescription><![CDATA[]]></pf:PageMetaDescription>
+<pf:PageMetaKeywords><![CDATA[]]></pf:PageMetaKeywords>
+<pf:VisualNotesData><![CDATA[]]></pf:VisualNotesData>
+<pf:PageHeader>
+<![CDATA[
+&nbsp;
+]]>
+</pf:PageHeader>
+<pf:LeftSide>
+<![CDATA[]]>
+</pf:LeftSide>
+<pf:RightSide>
+<![CDATA[]]>
+</pf:RightSide>
+<pf:PageContent>
+<![CDATA[
+
+<div class="pfBox background-primary"><div class="pfCardContainer cardsColumns columns-50 columns-valign-fill height-260">
+           
+    <div class="pfCard padding-20 content-vertical-align-center">
+    <div editor-selectable="false" class="cardPlaceholder">
+      <div editor-selectable="false" class="cardContent">
+        <h1 class="text-white text-white">
+    Sanx Archives</h1>
+      </div>
+    </div>
+  </div>
+<div class="pfCard padding-30" editor-selectable="false">
+  <div editor-selectable="false" class="cardContent"></div>
+</div>
+</div></div>
+              
+          
+        
+      <h1>
+    Your typography</h1><p>
+    Your content will look perfect with these styles.</p><div class="pfCardContainer cardsColumns columns-20"><div class="pfCard padding-10 boxdecoration-default background-neutralLighter content-vertical-align-center content-horitontal-align-left">
+  <div editor-selectable="false" class="cardPlaceholder">
+    <div editor-selectable="false" class="cardContent cardFill">
+      
+      <h1>Abc</h1>
+    <p>
+    Heading level 1</p></div>
+  </div>
+</div><div class="pfCard padding-10 boxdecoration-default background-neutralLighter content-vertical-align-center content-horitontal-align-left">
+  <div editor-selectable="false" class="cardPlaceholder">
+    <div editor-selectable="false" class="cardContent cardFill">
+      
+      <h2 class="">Abc</h2>
+    <p>
+    Heading level 2</p></div>
+  </div>
+</div><div class="pfCard padding-10 boxdecoration-default background-neutralLighter content-vertical-align-center content-horitontal-align-left">
+  <div editor-selectable="false" class="cardPlaceholder">
+    <div editor-selectable="false" class="cardContent cardFill">
+      
+      <h3 class="">Abc</h3>
+    <p>
+    Heading level 3</p></div>
+  </div>
+</div><div class="pfCard padding-10 boxdecoration-default background-neutralLighter content-vertical-align-center content-horitontal-align-left">
+  <div editor-selectable="false" class="cardPlaceholder">
+    <div editor-selectable="false" class="cardContent cardFill">
+      
+      <h4 class="">Abc</h4>
+    <p>
+    Heading level 4</p></div>
+  </div>
+</div><div class="pfCard padding-10 boxdecoration-default background-neutralLighter content-vertical-align-center content-horitontal-align-left">
+  <div editor-selectable="false" class="cardPlaceholder">
+    <div editor-selectable="false" class="cardContent cardFill">
+      
+      <h5 class="">Abc</h5>
+    <p>
+    Heading level 5</p></div>
+  </div>
+</div></div><h1>
+    Your colors</h1><p>
+    Here are your Theme colors. Good choice!</p><div class="pfCardContainer cardsColumns height-105 columns-20"><div class="pfCard content-vertical-align-center background-trans content-horitontal-align-left padding-0">
+  <div class="cardPlaceholder">
+    <div class="cardContent cardFill">
+    <div class="pfBox background-dark height-105">&nbsp;</div><article>
+      <p>Theme Dark Color</p>
+      </article>
+    </div>
+  </div>
+</div><div class="pfCard content-vertical-align-center background-trans content-horitontal-align-left padding-0">
+  <div class="cardPlaceholder">
+    <div class="cardContent cardFill">
+    <div class="pfBox background-primary height-105">&nbsp;</div><article>
+      <p>Theme Primary</p>
+      </article>
+    </div>
+  </div>
+</div><div class="pfCard content-vertical-align-center background-trans content-horitontal-align-left padding-0">
+  <div class="cardPlaceholder">
+    <div class="cardContent cardFill">
+    <div class="pfBox background-themeSecondary height-105">&nbsp;</div><article>
+      <p>Theme Secondary</p>
+      </article>
+    </div>
+  </div>
+</div><div class="pfCard content-vertical-align-center background-trans content-horitontal-align-left padding-0">
+  <div class="cardPlaceholder">
+    <div class="cardContent cardFill">
+    <div class="pfBox background-themeLight height-105">&nbsp;</div><article>
+      <p>Theme Light</p>
+      </article>
+    </div>
+  </div>
+</div><div class="pfCard content-vertical-align-center background-trans content-horitontal-align-left padding-0">
+  <div class="cardPlaceholder">
+    <div class="cardContent cardFill">
+    <div class="pfBox background-themeLighter height-105">&nbsp;</div><article>
+      <p>Theme Lighter</p>
+      </article>
+    </div>
+  </div>
+</div></div>
+
+]]>
+</pf:PageContent>
+<pf:PageFooter>
+<![CDATA[
+
+<div class="pfBox content-horizontal-align-center background-trans padding-25"><p class="text-tertiary">
+    Thank you so much for using PageFabric!</p></div>
+
+]]>
+</pf:PageFooter>
+</pf:Variant>
+<pf:Variant lang='fr-FR'>
+<pf:PageLayoutProperties><![CDATA[pageMedium]]></pf:PageLayoutProperties>
+<pf:PageModifiedDate><![CDATA[2024-10-31T13:44:03]]></pf:PageModifiedDate>
+<pf:PageTitle><![CDATA[]]></pf:PageTitle>
+<pf:PageLayout><![CDATA[default]]></pf:PageLayout>
+<pf:PageTemplate><![CDATA[]]></pf:PageTemplate>
+<pf:PageOGImage><![CDATA[]]></pf:PageOGImage>
+<pf:PageOGTitle><![CDATA[]]></pf:PageOGTitle>
+<pf:PageOGDescription><![CDATA[]]></pf:PageOGDescription>
+<pf:PageMetaDescription><![CDATA[]]></pf:PageMetaDescription>
+<pf:PageMetaKeywords><![CDATA[]]></pf:PageMetaKeywords>
+<pf:VisualNotesData><![CDATA[]]></pf:VisualNotesData>
+<pf:PageHeader>
+<![CDATA[]]>
+</pf:PageHeader>
+<pf:LeftSide>
+<![CDATA[]]>
+</pf:LeftSide>
+<pf:RightSide>
+<![CDATA[]]>
+</pf:RightSide>
+<pf:PageContent>
+<![CDATA[
+
+
+<section class="pfBox background-primary"><section class="pfCardContainer cardsColumns columns-50 columns-valign-fill height-260">
+           
+    <section class="pfCard padding-20 content-vertical-align-center">
+    <div editor-selectable="false" class="cardPlaceholder">
+      <div editor-selectable="false" class="cardContent">
+        <h1 class=" text-white   text-white">
+    Hey! Welcome to your new WebSite!
+    </h1>
+      </div>
+    </div>
+  </section>
+<section class="pfCard padding-30" editor-selectable="false">
+  <div editor-selectable="false" class="cardContent"></div>
+</section>
+</section></section>
+              
+          
+        
+      <h1>
+    Your typography</h1><p>
+    Your content will look perfect with these styles.</p><section class="pfCardContainer cardsColumns columns-20"><section class="pfCard padding-10 boxdecoration-default background-neutralLighter content-vertical-align-center content-horitontal-align-left">
+  <div editor-selectable="false" class="cardPlaceholder">
+    <div editor-selectable="false" class="cardContent cardFill">
+      
+      <h1>Abc</h1>
+    <p>
+    Heading level 1</p></div>
+  </div>
+</section><section class="pfCard padding-10 boxdecoration-default background-neutralLighter content-vertical-align-center content-horitontal-align-left">
+  <div editor-selectable="false" class="cardPlaceholder">
+    <div editor-selectable="false" class="cardContent cardFill">
+      
+      <h2 class=" ">Abc</h2>
+    <p>
+    Heading level 2</p></div>
+  </div>
+</section><section class="pfCard padding-10 boxdecoration-default background-neutralLighter content-vertical-align-center content-horitontal-align-left">
+  <div editor-selectable="false" class="cardPlaceholder">
+    <div editor-selectable="false" class="cardContent cardFill">
+      
+      <h3 class=" ">Abc</h3>
+    <p>
+    Heading level 3</p></div>
+  </div>
+</section><section class="pfCard padding-10 boxdecoration-default background-neutralLighter content-vertical-align-center content-horitontal-align-left">
+  <div editor-selectable="false" class="cardPlaceholder">
+    <div editor-selectable="false" class="cardContent cardFill">
+      
+      <h4 class=" ">Abc</h4>
+    <p>
+    Heading level 4</p></div>
+  </div>
+</section><section class="pfCard padding-10 boxdecoration-default background-neutralLighter content-vertical-align-center content-horitontal-align-left">
+  <div editor-selectable="false" class="cardPlaceholder">
+    <div editor-selectable="false" class="cardContent cardFill">
+      
+      <h5 class="  ">Abc</h5>
+    <p>
+    Heading level 5</p></div>
+  </div>
+</section></section><h1>
+    Your colors</h1><p>
+    Here are your Theme colors. Good choice!</p><section class="pfCardContainer cardsColumns height-105 columns-20"><section class="pfCard content-vertical-align-center background-trans content-horitontal-align-left padding-0">
+  <div class="cardPlaceholder">
+    <div class="cardContent cardFill">
+    <section class="pfBox background-dark height-105"></section><article>
+      <p>Theme Dark Color</p>
+      </article>
+    </div>
+  </div>
+</section><section class="pfCard content-vertical-align-center background-trans content-horitontal-align-left padding-0">
+  <div class="cardPlaceholder">
+    <div class="cardContent cardFill">
+    <section class="pfBox background-primary height-105"></section><article>
+      <p>Theme Primary</p>
+      </article>
+    </div>
+  </div>
+</section><section class="pfCard content-vertical-align-center background-trans content-horitontal-align-left padding-0">
+  <div class="cardPlaceholder">
+    <div class="cardContent cardFill">
+    <section class="pfBox background-themeSecondary height-105"></section><article>
+      <p>Theme Secondary</p>
+      </article>
+    </div>
+  </div>
+</section><section class="pfCard content-vertical-align-center background-trans content-horitontal-align-left padding-0">
+  <div class="cardPlaceholder">
+    <div class="cardContent cardFill">
+    <section class="pfBox background-themeLight height-105"></section><article>
+      <p>Theme Light</p>
+      </article>
+    </div>
+  </div>
+</section><section class="pfCard content-vertical-align-center background-trans content-horitontal-align-left padding-0">
+  <div class="cardPlaceholder">
+    <div class="cardContent cardFill">
+    <section class="pfBox background-themeLighter height-105"></section><article>
+      <p>Theme Lighter</p>
+      </article>
+    </div>
+  </div>
+</section></section>
+
+
+]]>
+</pf:PageContent>
+<pf:PageFooter>
+<![CDATA[
+
+
+<section class="pfBox content-horizontal-align-center background-trans padding-25"><p class="text-tertiary">
+    Thank you so much for using PageFabric!</p></section>
+
+
+]]>
+</pf:PageFooter>
+</pf:Variant>
+</pf:Variants>
+<pf:Notes>
+<pf:Note>
+<pf:Content><![CDATA[Use this page as an example to build the WebSite.]]></pf:Content>
+<pf:ColorIndex><![CDATA[0]]></pf:ColorIndex>
+<pf:Date><![CDATA[19/06/2020]]></pf:Date>
+</pf:Note>
+</pf:Notes>
+</pf:Page>

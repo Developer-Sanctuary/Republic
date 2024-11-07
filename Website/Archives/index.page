@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pf:Page xmlns:pf="http://schemas.getpagefabric.com/2020/pageDefinition" id="7e5944b4-52be-4f06-91d6-046a09b5a20d">
+<pf:Variants>
+<pf:Variant lang='en'>
+<pf:PageLayoutProperties><![CDATA[]]></pf:PageLayoutProperties>
+<pf:PageModifiedDate><![CDATA[2024-10-31T18:48:02]]></pf:PageModifiedDate>
+<pf:PageTitle><![CDATA[]]></pf:PageTitle>
+<pf:PageLayout><![CDATA[default]]></pf:PageLayout>
+<pf:PageTemplate><![CDATA[]]></pf:PageTemplate>
+<pf:PageOGImage><![CDATA[]]></pf:PageOGImage>
+<pf:PageOGTitle><![CDATA[]]></pf:PageOGTitle>
+<pf:PageOGDescription><![CDATA[]]></pf:PageOGDescription>
+<pf:PageMetaDescription><![CDATA[]]></pf:PageMetaDescription>
+<pf:PageMetaKeywords><![CDATA[]]></pf:PageMetaKeywords>
+<pf:VisualNotesData><![CDATA[]]></pf:VisualNotesData>
+<pf:PageHeader>
+<![CDATA[
+
+<div class="pfBox height-180 padding-0"><div class="pfBox syncWithContentWidth">
+</div><div class="pfBox padding-5 text-white background-primary">
+    <div class="boxContent">
+      <p style="text-align: center;"><strong>READING ROOM CLOSURE </strong>On 11 December our reading rooms will be closed. The café, shop, and library will remain open. Sorry for any inconvenience caused.</p>
+      </div>
+    </div><pfhnav class="pfHNav hideIcon syncWithContentWidth" menuid="4c2551e489a4492ea953846925184aa4"></pfhnav>
+
+
+<div class="pfBox columns-halign-center bgImgFill background-neutralLighter boxdecoration-default content-vertical-align-default content-horizontal-align-default height-105 width-auto" style=""><div class="pfCardContainer cardsColumns columns-50 syncWithContentWidth columns-valign-center columns-halign-default margin-0 height-75">
+           
+    <div class="pfCard content-vertical-align-center padding-10">
+    <div editor-selectable="false" class="cardPlaceholder">
+      <div editor-selectable="false" class="cardContent">
+        
+      <p editor-selectable="false"></p><div class="pfStackPanel stack-vertical space-10"><h1 class="text-primary">
+    Explore</h1><article class="text-align-default">
+    <p>1,000 years of history</p>
+    </article><div class="pfStackPanel stack-horizontal space-20 content-horizontal-align-default"><a class="pfButton button-primay button-size-default">Help with your research</a><a class="pfButton button-white button-size-default">Search the catalogue</a><a class="pfButton button-white button-size-default">Plan your visit</a></div></div></div>
+    </div>
+  </div>
+<div class="pfCard padding-30" editor-selectable="false">
+  <div editor-selectable="false" class="cardContent">
+    <img src="assets://images/TNA.png" class="img-colors-5">
+  </div>
+</div>
+</div>
+              
+          
+        
+      </div></div>
+
+]]>
+</pf:PageHeader>
+<pf:LeftSide>
+<![CDATA[]]>
+</pf:LeftSide>
+<pf:RightSide>
+<![CDATA[]]>
+</pf:RightSide>
+<pf:PageContent>
+<![CDATA[
+
+<div class="pfBox height-260"><div class="pfBox background-trans height-auto"><div class="pfCardContainer cardsColumns columns-100"><div class="pfCard boxdecoration-none content-horizontal-align-center content-vertical-align-center background-neutralLighter padding-15">
+  <div editor-selectable="false" class="cardPlaceholder">
+  <div class="cardFill">
+    
+    <div editor-selectable="false" class="cardContent heightSizeToContent"><div class="pfBox content-horizontal-align-default height-260 content-vertical-align-center" style="background-position:50%"><div class="pfStackPanel stack-vertical space-20 content-horizontal-align-center"><h4>
+    New podcast episode: Second World War – legacies, language and diaspora</h4><article class="text-align-center">
+    <p>In this episode of On the Record, host Chloe Lee speaks with Iqbal Singh...</p>
+    </article><div class="pfStackPanel stack-horizontal space-20"><a class="pfButton button-primay">button text</a><a class="pfButton button-primay">button text</a></div></div></div></div>
+  </div>
+  </div>
+</div></div></div><div class="pfCardContainer cardsColumns columns-33"><div class="pfCard boxdecoration-none content-horizontal-align-center content-vertical-align-center background-neutralLighter padding-15">
+  <div editor-selectable="false" class="cardPlaceholder">
+  <div class="cardFill">
+    
+    <div editor-selectable="false" class="cardContent heightSizeToContent"><div class="pfBox height-fill content-horizontal-align-default content-vertical-align-default"><div class="pfStackPanel stack-vertical space-20 content-horizontal-align-center"><h4>
+    Saul Nassé presents first Archive Service Accreditation certificate</h4><article class="text-align-center">
+    <p>Our Chief Executive and Keeper, Saul Nassé, has presented his first Archive Service Accreditation...</p>
+    </article><a class="pfButton button-primay">button text</a></div></div></div>
+  </div>
+  </div>
+</div><div class="pfCard boxdecoration-none content-horizontal-align-center content-vertical-align-center background-neutralLighter padding-15">
+  <div editor-selectable="false" class="cardPlaceholder">
+  <div class="cardFill">
+    
+    <div editor-selectable="false" class="cardContent heightSizeToContent"><div class="pfBox height-fill content-horizontal-align-default content-vertical-align-default"><div class="pfStackPanel stack-vertical space-20 content-horizontal-align-center"><h4>
+    List of people summoned to the 1265 Parliament</h4><article class="text-align-center">
+    <p>This document records the first time that citizens outside of the elites were called...</p>
+    </article><a class="pfButton button-primay">button text</a></div></div></div>
+  </div>
+  </div>
+</div><div class="pfCard boxdecoration-none content-horizontal-align-center content-vertical-align-center background-neutralLighter padding-15">
+  <div editor-selectable="false" class="cardPlaceholder">
+  <div class="cardFill">
+    
+    <div editor-selectable="false" class="cardContent heightSizeToContent"><div class="pfBox height-fill content-horizontal-align-default content-vertical-align-default"><div class="pfStackPanel stack-vertical space-20 content-horizontal-align-center"><h4>
+    The National Archives wins £1.3m award to create centre of excellence for heritage science</h4><article class="text-align-center">
+    <p>The National Archives has won prestigious funding to upgrade its analytical research laboratory creating...</p>
+    </article><a class="pfButton button-primay">button text</a></div></div></div>
+  </div>
+  </div>
+</div></div></div>
+
+]]>
+</pf:PageContent>
+<pf:PageFooter>
+<![CDATA[
+<div class="pfBox">
+<div class="pfCardContainer cardsColumns columns-25" data-datasource="test1"><div class="pfCard boxdecoration-default background-trans padding-0 content-vertical-align-default content-horitontal-align-default">
+          <div editor-selectable="false" class="cardPlaceholder">
+            <div editor-selectable="false" class="cardContent">
+			
+      
+            <div class="pfStackPanel stack-vertical space-20"><h4>
+    Lorem ipsum dolor sit amet
+    </h4><article>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a ante nec tortor euismod sodales.</p>
+    </article></div></div>
+          </div>
+        </div><div class="pfCard boxdecoration-default background-white padding-15">
+  <div editor-selectable="false" class="cardPlaceholder">
+  <div class="cardFill">
+    
+    <div class="pfBox background-primary bgImgFill height-180" style="background-position:0px 0px"></div><div editor-selectable="false" class="cardContent heightSizeToContent">
+    
+    <div class="pfStackPanel stack-vertical space-10 content-horizontal-align-left"><h4>
+    Lorem ipsum</h4><article>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a ante nec tortor euismod sodales.</p>
+    </article><a class="pfButton button-goto button-arrow-right">button text</a></div></div>
+  </div>
+  </div>
+</div><div class="pfCard boxdecoration-default background-white padding-15">
+  <div editor-selectable="false" class="cardPlaceholder">
+  <div class="cardFill">
+    <div class="pfBox background-primary bgImgFill height-180" style="background-position:0px 0px"></div>
+    <div editor-selectable="false" class="cardContent heightSizeToContent">
+    
+    <div class="pfStackPanel stack-vertical space-10 content-horizontal-align-left"><h4>
+    Lorem ipsum</h4><article>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a ante nec tortor euismod sodales.</p>
+    </article><a class="pfButton button-goto button-arrow-right">button text</a></div></div>
+  </div>
+  </div>
+</div><div class="pfCard boxdecoration-default background-white padding-15">
+  <div editor-selectable="false" class="cardPlaceholder">
+  <div class="cardFill">
+    <div class="pfBox background-primary bgImgFill height-180" style="background-position:0px 0px"></div>
+    <div editor-selectable="false" class="cardContent heightSizeToContent">
+    
+    <div class="pfStackPanel stack-vertical space-10 content-horizontal-align-left"><h4>
+    Lorem ipsum</h4><article>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a ante nec tortor euismod sodales.</p>
+    </article><a class="pfButton button-goto button-arrow-right">button text</a></div></div>
+  </div>
+  </div>
+</div></div>
+</div>
+]]>
+</pf:PageFooter>
+</pf:Variant>
+</pf:Variants>
+<pf:Notes>
+</pf:Notes>
+</pf:Page>
