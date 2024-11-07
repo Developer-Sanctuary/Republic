@@ -1,10 +1,11 @@
-name: Deploy to Raspberry Pi 5 without Docker
+name: CD
 
 on:
   workflow_dispatch:
 
 jobs:
   deploy:
+    name: Deploy
     runs-on: self-hosted
     steps:
       - name: Checkout code
