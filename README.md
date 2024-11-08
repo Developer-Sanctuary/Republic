@@ -46,7 +46,7 @@ public class Portals
 
 	public class Bot
 	{
-		public const ulong GuildId = 714581497222398064; // Copy and paste the server ID of your target server here.
+		public const ulong GuildId = 714581497222398064; // Paste the ID of your target server here.
 	}
 }
 ```
