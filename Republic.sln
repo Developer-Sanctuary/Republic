@@ -8,8 +8,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.ServiceDefaults", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.ApiService", "Website\ApiService\Republic.ApiService.csproj", "{86151E07-F048-447F-823E-350C63EF8433}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.Web", "Website\Web\Republic.Web.csproj", "{06992F74-BB2F-4D31-A81B-33D2010CBF6E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Republic.Tests", "Tests\Republic.Tests.csproj", "{FB3689E2-0859-4BF5-9126-975534A7140F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{E876686F-E94B-4E52-8F1C-0BAA5D744383}"
@@ -44,10 +42,6 @@ Global
 		{86151E07-F048-447F-823E-350C63EF8433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86151E07-F048-447F-823E-350C63EF8433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86151E07-F048-447F-823E-350C63EF8433}.Release|Any CPU.Build.0 = Release|Any CPU
-		{06992F74-BB2F-4D31-A81B-33D2010CBF6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06992F74-BB2F-4D31-A81B-33D2010CBF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06992F74-BB2F-4D31-A81B-33D2010CBF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06992F74-BB2F-4D31-A81B-33D2010CBF6E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FB3689E2-0859-4BF5-9126-975534A7140F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FB3689E2-0859-4BF5-9126-975534A7140F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB3689E2-0859-4BF5-9126-975534A7140F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -81,7 +75,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{410191C1-1FD2-436C-9CE9-4A52390C91F7} = {E876686F-E94B-4E52-8F1C-0BAA5D744383}
 		{86151E07-F048-447F-823E-350C63EF8433} = {E876686F-E94B-4E52-8F1C-0BAA5D744383}
-		{06992F74-BB2F-4D31-A81B-33D2010CBF6E} = {E876686F-E94B-4E52-8F1C-0BAA5D744383}
 	EndGlobalSection
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Private\Republic.Private.projitems*{17d420ed-cb14-46b2-9ea5-56878e03008b}*SharedItemsImports = 13
