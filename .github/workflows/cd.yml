@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  APP_CREDENTIALS_PATH: '${{ github.workspace }}\Private\Constants.cs'
+  APP_CREDENTIALS_PATH: '${{ github.workspace }}/Private/Constants.cs'
 
 jobs:
   deploy:
