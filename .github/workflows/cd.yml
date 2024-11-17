@@ -10,6 +10,9 @@ jobs:
   deploy:
     name: Deploy
     runs-on: self-hosted
+    defaults:
+      run:
+        shell: pwsh
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
