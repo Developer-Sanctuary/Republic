@@ -3,6 +3,9 @@ name: CD
 on:
   workflow_dispatch:
 
+env:
+  APP_CREDENTIALS_PATH: '${{ github.workspace }}\Private\Constants.cs'
+
 jobs:
   deploy:
     name: Deploy
@@ -22,6 +25,14 @@ jobs:
       - name: Restore dependencies
         run: |
           dotnet restore
+          
+      - name: Save Base64 credentials into a file
+        shell: pwsh
+        run: |
+          $bytes = [Convert]::FromBase64String($env:CREDENTIALS)
+          [IO.File]::WriteAllBytes($env:APP_CREDENTIALS_PATH, $bytes)
+        env:
+          CREDENTIALS: '${{ secrets.APICREDENTIALS }}'
 
       - name: Run .NET Aspire AppHost
         run: |
