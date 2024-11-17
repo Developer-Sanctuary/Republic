@@ -6,11 +6,11 @@ var apiService = builder.AddProject<Projects.Republic_ApiService>("apiservice");
 
 builder.AddNpmApp("copilot", "../Copilot");
 
-builder.AddProject<Projects.Republic_Web>("webfrontend")
+/* builder.AddProject<Projects.Republic_Web>("webfrontend")
 	.WithExternalHttpEndpoints()
 	.WaitFor(apiService)
 	.WithReference(cache)
-	.WithReference(apiService);
+	.WithReference(apiService); */
 
 builder.AddProject<Projects.Republic_Judiciary>("court");
 
